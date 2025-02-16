@@ -1,0 +1,25 @@
+<html>
+    <title>Коты и собаки</title>
+    <body style="background-color:#98FB98">
+        <header style="background-color:green;color:white">
+        <a href="#zhivotnie">Самый популярный вид млекопитающих.</a>
+        <h2 id="zhivotnie">Самый популярный вид млекопитающих.</h2>
+        </header>
+        <main>
+            <h1 style="background-color:green;color:white">Отношение кошек и собак</h1>
+            <p>Кошки и собаки могут взаимодействовать по-разному. Кошки и собаки могут иметь дружелюбные отношения, если люди стимулируют и поощряют неагрессивное поведение. В домашних условиях, где собака и кошка воспитываются и дрессируются должным образом, они, как правило, хорошо ладят друг с другом.</p>
+            <img src="https://magizoo.ru/upload/medialibrary/e91/37t4ndovdebw4tym1a247wf8yi3bnhqq/Koshka-i-sobaka.jpg"width="200px"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadn2RDqbEBlrAV2H9jZpPzRcnTSg9_CihdQ&s"width="200px"/>
+            <img src="https://storage.yandexcloud.net/yac-wh-sb-prod-s3-media-03002/uploads/article/403/Britanskaya_korotkoshorstnaya_1023x448.webp"width="200px"/>
+            <h2 style="background-color:green;color:white">Самый популярный вид млекопитающих.</h2>
+            <p>Коты и собаки является одним из самых популярных млекопитающих.По статистике мужчины чаще всего заводят собак, а женщины кошек.</p>
+
+        </main>
+
+    <footer>
+    <p>за вопросами писавь на gugugaga@html.del</p> 
+    </footer>
+    </body>
+</html>
+            
+       
